@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Charles Axel</h1>
 <h3 align="center">A passionate developer from IUT de Lens</h3>
 
-- 🔭 I’m currently working on **JavaFX BlackJack**
+- 🔭 I’m currently working on **Flask Cards game**
 
-- 🌱 I’m currently learning **Java, Php and PostgreSQL**
+- 🌱 I’m currently learning **Java, Python/Flask, Php/Laravel, PostgreSQL/SQLITE**
 
 - 📫 How to reach me : **charlesaxelpro@gmail.com**
 

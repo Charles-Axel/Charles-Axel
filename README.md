@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, Python/Flask, Php/Laravel, PostgreSQL/SQLITE**
 
-- 📫 How to reach me : **charlesaxelpro@gmail.com**
+- 📫 How to reach me : **charlesaxel59@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
